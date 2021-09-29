@@ -1,0 +1,26 @@
+write HTML:5 to start the html coding
+
+To hide something from the main page without deleting it, select, and push /
+
+Push command s to save something
+
+Use a to create <a href="type theme of the link here">place the name you want to display here</a> links.
+
+<a href="https://instagram.com/barefeet_bluejeans">Bethany's instagram</a> link to instagram, other links should be written out the same way, with the name of the file you wish to access.
+
+Write <a href="https://www.instagram.com/barefeet_bluejeans"target="_blank">instagram profile</a>
+The important part of this is that target="_blank" makes the tab open a new page
+
+.contact-hours-wrapper turned into "<div class="contact-hours-wrapper"></div>"
+
+.name-of-file is correct css forum
+
+# before id in css
+
+It is recommended to always use class instead of id
+
+To find the closing div, push the div, and it will highlight both the opening and closing div
+
+Padding starts on the top and goes clockwise
+
+If you have the same padding for the
